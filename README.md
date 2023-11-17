@@ -15,6 +15,7 @@
   ![Figma](https://img.shields.io/badge/-Figma-FF564A?style=for-the-badge&logo=figma&logoColor=white)
   ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-E9F542?style=for-the-badge&logo=javascript&logoColor=black)
+  ![NextJs](https://img.shields.io/badge/-NextJs-000?style=for-the-badge&logo=next.js&logoColor=white)
   ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
   
 ### :books: Currently Studying
